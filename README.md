@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm PRIYANSHU RAGHAV</h1>
-<h3 align="center">I'm a Java Developer.</h3>
+<h3 align="center">I'm a passionate Java Spring Boot MVC developer with experience in creating robust web applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshuragahav2&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshuragahav2" /> </p>
 
