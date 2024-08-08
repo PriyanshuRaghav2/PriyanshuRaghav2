@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **priyanshuraghav202@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13JQYgVwccqlXOcb68enrquWmCpSJ2DFS/view?usp=sharing](https://drive.google.com/file/d/1HW6u_MI3PEvyeWYqu6L8OKqKCAF24mL2/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1HW6u_MI3PEvyeWYqu6L8OKqKCAF24mL2/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
